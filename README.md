@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prem-choithani23
 - 👀 I’m interested in Problem Solving 
-- 🌱 I’m currently learning JavaScript, Advanced Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning & NodeJS
 - 📫 How to reach me : email => premchoithani4@gmail.com
 - ⚡ Fun fact: Not a 'FRONT-END" person
 

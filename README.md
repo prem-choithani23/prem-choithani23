@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  🎵 *"Code with rhythm, just like the violin."* 🎶
+  🎵** Code with rhythm, just like the violin. **🎶
 </p>

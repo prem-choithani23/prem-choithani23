@@ -2,12 +2,14 @@
 ![Banner](https://raw.githubusercontent.com/prem-choithani23/prem-choithani23/main/assets/banner.png)
 
 <h1 align="center">Hey there 👋, I'm Prem Choithani</h1>
-<h3 align="center">💻 Full Stack Developer | 🌱 Exploring Node.js | 🎻 Violin Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer | 🌱 Exploring Node.js & 🧠 Machine Learning| 🎻 Violin Enthusiast</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=I+love+building+cool+things!;Full+Stack+Developer+%7C+Node.js+Learner;Coding+is+my+passion+🔥" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=I+love+building+cool+things!;Full+Stack+Developer+%7C+Node.js+Learner;Coding+is+my+passion+🔥" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -16,7 +18,6 @@
 - 🎓 Third-year student at **Sardar Patel Institute of Technology, Andheri**  
 - 💻 Passionate about **coding, web development, and machine learning**  
 - 🌱 Currently learning **Node.js**  
-- 🧠 I build and pin all my projects on my GitHub  
 - 🎻 When not coding, I’m probably playing the **violin** 🎶  
 
 ---
@@ -57,8 +58,8 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:premchoithani23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/prem-choithani23" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:premchoithani4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/prem-choithani-937a27340" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -68,5 +69,5 @@
 </p>
 
 <p align="center">
-  🎵 *"Code with rhythm, just like the violin."* 🎶
+  🎵** Code with rhythm, just like the violin. **🎶
 </p>

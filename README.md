@@ -2,7 +2,7 @@
 ![Banner](https://raw.githubusercontent.com/prem-choithani23/prem-choithani23/main/assets/banner.png)
 
 <h1 align="center">Hey there 👋, I'm Prem Choithani</h1>
-<h3 align="center">💻 Full Stack Developer | 🌱 Exploring Node.js & 🧠 Machine Learning| 🎻 Violin Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer | 🌱 Exploring SpringBoot | 🎻 Violin Enthusiast</h3>
 
 ---
 
@@ -17,7 +17,7 @@
 ### 🏫 About Me  
 - 🎓 Third-year student at **Sardar Patel Institute of Technology, Andheri**  
 - 💻 Passionate about **coding, web development, and machine learning**  
-- 🌱 Currently learning **Node.js**  
+- 🌱 Currently learning backend in Spring 
 - 🎻 When not coding, I’m probably playing the **violin** 🎶  
 
 ---

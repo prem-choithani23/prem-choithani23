@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://raw.githubusercontent.com/prem-choithani23/prem-choithani23/main/assets/banner.png?v=2)
+![Banner](https://raw.githubusercontent.com/prem-choithani23/prem-choithani23/main/assets/banner.png?v=3)
 
 <h1 align="center">Hey there 👋, I'm Prem Choithani</h1>
 <h3 align="center">💻 Full Stack Developer | 🌱 Exploring SpringBoot | 🎻 Violin Enthusiast</h3>
